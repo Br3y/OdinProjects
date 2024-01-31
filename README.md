@@ -19,3 +19,6 @@
 <a href="https://github.com/Br3y/odin-recipes">SOLUTION</a>
 
 # Ruby Course ( Basic Ruby Projects )
+
+- Caesar Cipher:
+<a href="https://github.com/Br3y/basic-ruby-projects/blob/main/caesar_cipher.rb">DEMO</a>
