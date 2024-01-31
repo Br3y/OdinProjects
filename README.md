@@ -17,3 +17,5 @@
 - Odin Recipes:
 <a href="https://br3y.github.io/odin-recipes/">DEMO</a> | 
 <a href="https://github.com/Br3y/odin-recipes">SOLUTION</a>
+
+# Ruby Course ( Basic Ruby Projects )
