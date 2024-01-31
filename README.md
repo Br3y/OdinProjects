@@ -26,3 +26,5 @@
 <a href="https://github.com/Br3y/basic-ruby-projects/blob/main/sub_strings.rb">SOLUTION</a>
 - Stock Picker:
 <a href="https://github.com/Br3y/basic-ruby-projects/blob/main/stock_picker.rb">SOLUTION</a>
+- Bubble Sort:
+<a href="https://github.com/Br3y/basic-ruby-projects/blob/main/bubble_sort.rb">SOLUTION</a>
