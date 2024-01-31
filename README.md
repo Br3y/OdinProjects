@@ -24,3 +24,5 @@
 <a href="https://github.com/Br3y/basic-ruby-projects/blob/main/caesar_cipher.rb">SOLUTION</a>
 - Sub Strings:
 <a href="https://github.com/Br3y/basic-ruby-projects/blob/main/sub_strings.rb">SOLUTION</a>
+- Stock Picker:
+<a href="https://github.com/Br3y/basic-ruby-projects/blob/main/stock_picker.rb">SOLUTION</a>
